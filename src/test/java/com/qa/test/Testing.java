@@ -7,6 +7,7 @@ public class Testing {
 	@Test
 	public void testfn() {
 		System.out.println("--------Hello World--------");		
+		System.out.println("--------Hello World update--------");	
 	}
 	
 	
